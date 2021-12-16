@@ -7,4 +7,4 @@ export { default as HomepageSubscribe } from './HomepageSubscribe'
 
 export { default as NavBar } from './NavBar'
 
-export { default as SuitImage } from './RockPaperScissorsImage'
+export { default as SuitImage } from './logoImage'
